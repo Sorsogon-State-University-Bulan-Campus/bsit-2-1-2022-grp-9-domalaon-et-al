@@ -1,6 +1,22 @@
-# <Title of your project>
 
-Add description about your project
-  
-# <Members> (with github username)
-  * Juan Dela Cruz (@juandelacruz)
+# __📚Facts about Animals__
+
+<b><div style="text-align: justify">"It is estimated that around 9 or 10 million species of animals inhabit the earth; the exact number is not known and all estimates are rough.
+Learn all you wanted to know about animals in this project." </div><b>
+
+## 💡FAQs
+### **✔ Why does this website exist?**
+
+The purpose of this website is for us to explore and search for photos and facts about the world's animals.
+
+
+## 💻Authors 
+- [****Kent John Domalaon @DomalaonKent****](https://github.com/DomalaonKent)
+- [****Marjorie Flores Jetajobe @Marjorhi****](https://github.com/Marjorhi)
+
+
+## 📌Reference
+- [**WildZone Organization**](https://www.templateonweb.com/demo/0777d5c17d4066b82ab86dff8a46af6f)
+## 💜 Special Thanks 
+
+- [**Awesome README**](https://readme.so/) 
