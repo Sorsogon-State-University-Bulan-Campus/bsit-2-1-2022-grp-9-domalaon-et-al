@@ -1,0 +1,104 @@
+/*
+Template Name:Wildzone
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************team****************/
+.center_team {
+    background-image: url(../img/33.jpg);
+}
+.center_about_main {
+    background: #0000007a;
+    padding-top: 230px;
+    padding-bottom: 200px;
+}
+.about_page h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 70px;
+    font-family: 'Londrina Shadow', cursive;
+    letter-spacing: 5px;
+	margin-bottom:20px;
+}
+.about_page ul li{
+display:inline-block;
+margin-left:10px;
+margin-right:10px;
+color:#ccc; 
+font-weight:bold;  
+  }
+.about_page ul li a{
+color:#fff; 
+  }
+.about_page ul li a:hover{
+ color: #FFCC00;
+  }
+
+#team_page{
+padding-top:30px;
+padding-bottom:60px;  
+  } 
+.team{
+  margin-top:30px;
+  } 
+.team_inner h4{
+  margin-top:15px;
+  font-size:26px;
+  letter-spacing:1px;
+  font-weight:bold;
+  color:#990000;
+  }
+.team_inner h5{
+  margin-top:10px;
+   font-size:16px;
+  letter-spacing:1px;
+  color: gray;
+  }
+.card-image{
+    overflow: hidden;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    -o-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.card-image img{
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+ .card-image:hover img{
+    -webkit-transform: scale(1.2) rotate(-7deg);
+    -moz-transform: scale(1.2) rotate(-7deg);
+    -ms-transform: scale(1.2) rotate(-7deg);
+    -o-transform: scale(1.2) rotate(-7deg);
+    transform: scale(1.2) rotate(-7deg);
+}
+/*********************team_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.team_inner{
+ margin-top:10px; 
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1315px) {
+
+ }
+
+
+

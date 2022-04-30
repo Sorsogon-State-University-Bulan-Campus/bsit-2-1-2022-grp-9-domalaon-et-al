@@ -1,0 +1,78 @@
+/*
+Template Name:Wildzone
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************about****************/
+.center_about {
+    background-image: url(../img/27.jpg);
+}
+.center_about_main {
+    background: #0000007a;
+    padding-top: 230px;
+    padding-bottom: 200px;
+}
+.about_page h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 70px;
+    font-family: 'Londrina Shadow', cursive;
+    letter-spacing: 5px;
+	margin-bottom:20px;
+}
+.about_page ul li{
+display:inline-block;
+margin-left:10px;
+margin-right:10px;
+color:#ccc; 
+font-weight:bold;  
+  }
+.about_page ul li a{
+color:#fff; 
+  }
+.about_page ul li a:hover{
+ color: #FFCC00;
+  }
+
+.about_home_right h3{
+ margin-top:20px;
+ color: #990000; 
+ font-weight:bold;
+ line-height:1.4em;
+  }
+.work_home_1{
+  margin-top:40px;
+  }
+.work_home_1_inner h3{
+ margin-top:0!important;
+ line-height:1.4em; 
+ margin-bottom:10px!important;
+  }
+/*********************about_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.work_home_1_inner {
+ text-align:center;
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.work_home_1_inner h1{
+ font-size:30px!important; 
+  }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+.work_home_1_inner h1{
+ font-size:40px!important; 
+  }
+ }
+@media (min-width:1201px) and (max-width:1315px) {
+
+ }
+
+
+
