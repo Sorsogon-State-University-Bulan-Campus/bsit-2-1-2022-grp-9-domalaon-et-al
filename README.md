@@ -15,8 +15,9 @@ The purpose of this website is for us to explore and search for photos and facts
 - [****Marjorie Flores Jetajobe @Marjorhi****](https://github.com/Marjorhi)
 
 
-## 📌Reference
+## 📌References
 - [**WildZone Organization**](https://www.templateonweb.com/demo/0777d5c17d4066b82ab86dff8a46af6f)
+- [**Shock: First Animal on Earth**](https://www.livescience.com/4880-shock-animal-earth-surprisingly-complex.html#:~:text=Earth's%20first%20animal%20was%20the,by%20studying%20related%20animals%20today.)
 ## 💜 Special Thanks 
 
 - [**Awesome README**](https://readme.so/) 
